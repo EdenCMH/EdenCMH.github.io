@@ -22,7 +22,12 @@ Hello! I am **Eden Chien**.
   *Department of Accounting & Department of Sociology* (2015 - 2020)  
 - **Changhua Girls' Senior High School (CHGSH)** (2012 - 2015)  
 
----
+
+## 🎓 Competition  
+- **Deloitte China Tax Elite Challenge**  
+---*Third place, with a total of 72 teams participating in China* (2019)
+- **Deloitte Taiwan Tax Elite Challenge**  
+---*Fifth place, with a total of 22 teams participating in Taiwan* (2019)
 
 ## License
 - **Certified Public Accountant (CPA)**  
