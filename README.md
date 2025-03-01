@@ -1,7 +1,6 @@
 # EdenCMH.github.io
-簡夢萱
 # 👋 Hello, I'm Eden!  
-Welcome to my personal website. Here, I share my research and projects.  
+Welcome to my personal website.
 
 ---
 
@@ -9,15 +8,25 @@ Welcome to my personal website. Here, I share my research and projects.
 Hello! I am **Eden Chien**.  
 
 ---
+## 🎓 Work Experience 
+- **CTBC Bank Co., Ltd.**  
+  *Financial Analyst* (2022 - 2024)  
+- **KPMG**  
+  *Senior Auditor* (2020 - 2022)  
+
 
 ## 🎓 Education  
 - **National Yang Ming Chiao Tung University (NYCU)**  
   *Department of Information Management and Finance* (2024 - Present)  
-- **National Chengchi University (NCCU)**  
-  *Department of Applied Mathematics* (2020 - 2024)  
-- **Taichung Girls' Senior High School (TCGS)** (2017 - 2020)  
+- **Fu Jen Catholic University(FJU)**  
+  *Department of Accounting & Department of Sociology* (2015 - 2020)  
+- **Changhua Girls' Senior High School (CHGSH)** (2012 - 2015)  
 
 ---
+
+## License
+- **Certified Public Accountant (CPA)**  
+  
 
 ## 💻 Programming Skills  
 - **Python** 🐍  
