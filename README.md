@@ -1,5 +1,5 @@
 # EdenCMH.github.io
-# 👋 Hello, I'm Eden!
+# 👋 Hello
 Welcome to my personal website.
 
 
