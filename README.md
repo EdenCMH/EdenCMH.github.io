@@ -1,7 +1,7 @@
 # EdenCMH.github.io
 # 👋 Hello, I'm Eden!
 Welcome to my personal website.
-<img width="309" alt="image" src="https://github.com/user-attachments/assets/c218196a-17f7-4d06-8765-daa8d20c9b0b" />
+
 
 
 
@@ -11,7 +11,7 @@ Welcome to my personal website.
 
 ## 📌 About Me  
 Hello! I am **Eden Chien**.  
-
+<img width="309" alt="image" src="https://github.com/user-attachments/assets/c218196a-17f7-4d06-8765-daa8d20c9b0b" />
 ---
 ## 🎓 Work Experience 
 - **CTBC Bank Co. , Ltd.**  
