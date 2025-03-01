@@ -9,7 +9,7 @@ Hello! I am **Eden Chien**.
 
 ---
 ## 🎓 Work Experience 
-- **CTBC Bank Co., Ltd.**  
+- **CTBC Bank Co. , Ltd.**  
   *Financial Analyst* (2022 - 2024)  
 - **KPMG**  
   *Senior Auditor* (2020 - 2022)  
